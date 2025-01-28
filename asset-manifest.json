@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-app1/static/css/main.f855e6bc.css",
-    "main.js": "/react-app1/static/js/main.6d9e9b94.js",
-    "static/js/453.80a68404.chunk.js": "/react-app1/static/js/453.80a68404.chunk.js",
-    "static/media/logo.svg": "/react-app1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-app1/index.html",
-    "main.f855e6bc.css.map": "/react-app1/static/css/main.f855e6bc.css.map",
-    "main.6d9e9b94.js.map": "/react-app1/static/js/main.6d9e9b94.js.map",
-    "453.80a68404.chunk.js.map": "/react-app1/static/js/453.80a68404.chunk.js.map"
+    "main.css": "/git-pages-deploy/static/css/main.f855e6bc.css",
+    "main.js": "/git-pages-deploy/static/js/main.5a658207.js",
+    "static/js/453.80a68404.chunk.js": "/git-pages-deploy/static/js/453.80a68404.chunk.js",
+    "static/media/logo.svg": "/git-pages-deploy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/git-pages-deploy/index.html",
+    "main.f855e6bc.css.map": "/git-pages-deploy/static/css/main.f855e6bc.css.map",
+    "main.5a658207.js.map": "/git-pages-deploy/static/js/main.5a658207.js.map",
+    "453.80a68404.chunk.js.map": "/git-pages-deploy/static/js/453.80a68404.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.6d9e9b94.js"
+    "static/js/main.5a658207.js"
   ]
 }
